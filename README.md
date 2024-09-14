@@ -1,4 +1,5 @@
 🎓 Bioinformatics Master's Student
+
 🔬 Passionate about transcriptomics, immunology, machine learning and single-cell analysis. 
 My academic journey has allowed me to delve into the intersection of biology and computational science, where I've developed a skill set in Python, R, and Bash.
 
