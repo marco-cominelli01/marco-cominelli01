@@ -1,5 +1,12 @@
-🎓 Bioinformatics Master's Student.
+# Hi, I'm Marco ⛺
 
-🔬 Passionate about transcriptomics, immunology, machine learning and single-cell analysis. 
+## 🐙 About me
+Passionate about transcriptome assembly, single-cell RNA-seq and transposons.
 
-🚀 Let's Connect! If you share similar interests or are working on related projects, feel free to reach out.
+## 🛠️ Current
+Master student of Bioinformatics for Computational Genomics (joint degree between Unimi and Polimi)
+
+
+## 📞 Contacts
+📧 Personal e-mail: cominellimarco8@gmail.com
+
