@@ -15,5 +15,5 @@ Master student of Bioinformatics for Computational Genomics (joint degree betwee
 
 ## 📞 Contacts
 📧 Personal e-mail: &nbsp; cominellimarco8@gmail.com \
-👤 Linkedin: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; www.linkedin.com/in/marco-cominelli-8b017a1a1
+👤 LinkedIn: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; www.linkedin.com/in/marco-cominelli-8b017a1a1
 
