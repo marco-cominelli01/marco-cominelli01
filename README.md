@@ -8,10 +8,10 @@ Passionate about transcriptome assembly, single-cell RNA-seq and transposons.
 Master student of Bioinformatics for Computational Genomics (joint degree between Unimi and Polimi).
 
 ## 💻 Programming languages
-- Python
-- R
-- Nextflow
-- Bash
+🟡 Python \
+🔴 R \
+🟢 Nextflow \
+🟣 Bash
 
 ## 📞 Contacts
 📧 Personal e-mail: cominellimarco8@gmail.com
